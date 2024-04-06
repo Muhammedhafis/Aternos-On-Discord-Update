@@ -3,9 +3,9 @@ from selenium import webdriver
 
 #General required settings
 
-Token = ****
-Username = ****
-Password =  ****
+Token = MTIyNTc2OTAwMTA1Mzg0NzU3Mg.G-jGMp.aXLP_yvJMD_BCICIcy_UyhUKqx666OehoFTqVs
+Username = discord_test
+Password =  hafis123
 
 #Discord settings
 description = "Aternos on discord"
